@@ -3,7 +3,7 @@ export default function UserInput({ onChange, userInput }) {
     <section id="user-input">
       <div className="input-group">
         <p>
-          <label>Initial Investment</label>
+          <label>Initial Investment Value</label>
           <input
             type="number"
             required
