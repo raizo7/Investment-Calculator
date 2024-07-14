@@ -16,7 +16,7 @@ export default function Results({ input }) {
     <table id="result">
       <thead>
         <tr>
-          <th>Year</th>
+          <th>Investment Year</th>
           <th>Investment Value</th>
           <th>Interest (Year)</th>
           <th>Total Interest</th>
