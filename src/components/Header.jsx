@@ -5,7 +5,6 @@ export default function Header() {
     <header id="header">
       <img src={logo} alt="Logo showing a money bag" />
       <h1>Investment Calculator</h1>
-      <p>Testing Git hub </p>
     </header>
   );
 }
