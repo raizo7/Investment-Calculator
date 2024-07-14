@@ -5,7 +5,7 @@ export default function Header() {
     <header id="header">
       <img src={logo} alt="Logo showing a money bag" />
       <h1>Investment Calculator</h1>
-      <p>For beginners</p>
+      <p>For intermediate</p>
     </header>
   );
 }
